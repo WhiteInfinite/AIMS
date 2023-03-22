@@ -1,4 +1,4 @@
-# AIMS
+<h1 align="center">**AIMS**</h1>
 Animal Integrated Monitoring System(AIMS) is an AI software that can collect and analyse data regarding health of animals and produce information about widespread diseases in an area, to find which medicine is more required in that particular area and to provide users with precautionary methods to stop the spread of these diseases. 
 
 The stacks used in this software are:-
@@ -8,9 +8,9 @@ Machine Learning Stack
 Visualization Stack
 Cloud Stack
 
-The programming languages that will be used for the project are Python, Java and MySQL.
+The programming languages that will be used for the project are *Python* , *Java* and *MySQL*.
 
-### Brief description about the project:-
+### **Brief description about the project:-**
 
 Animal Integrated Monitoring System (AIMS) is a comprehensive system designed to collect, analyze, and disseminate data on the health of animals. The system is designed to provide information about the prevalence and spread of diseases in a given area, to help identify which medicines are most needed and to provide users with information on how to prevent the spread of these diseases.
 
